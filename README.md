@@ -1,7 +1,7 @@
 React ToDos App with ES6
 =======
 
-[![Browserify](https://img.shields.io/badge/build-passing-brightgreen.svg)]() [![npm](https://img.shields.io/badge/license-ISG-blue.svg]()
+[![Browserify](https://img.shields.io/badge/build-passing-brightgreen.svg)]() [![npm](https://img.shields.io/badge/license-ISG-blue.svg)]()
 
 ##Install Requirements
 Install webpack and webpack-dev-server globally
