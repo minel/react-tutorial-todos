@@ -3,8 +3,8 @@ React ToDos App with ES6
 
 [![Browserify](https://img.shields.io/badge/build-passing-brightgreen.svg)]() [![npm](https://img.shields.io/badge/license-ISG-blue.svg)]()
 
-##Install Requirements
-Install webpack and webpack-dev-server globally
+##Requirements
+You should install webpack and webpack-dev-server globally
 ```bash
 npm install -g webpack
 npm install -g webpack-dev-server
@@ -22,4 +22,4 @@ Start dev server
 webpack-dev-server
 ```
 
-Open your browser and go localhost:8080
+Now, open your browser and go http://localhost:8080
